@@ -6,4 +6,5 @@ It is verry simple, simply open `index.ts` and fill in the fields. Add your avat
 
 Then run the following commands:
 > `npm run build`
+
 > `npm run start`
